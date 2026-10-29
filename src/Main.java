@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
         Proizvod mlijeko = new Proizvod("Mlijeko 1 L", 1.29, 40);
-        Proizvod caj = new Proizvod("  Čaj od kamilice  ", 3.50);   // drugi konstruktor, količina 0
+        Proizvod caj = new Proizvod("  Čaj od kamilice  ", 3.50);  
         Proizvod kruh = new Proizvod("Kruh", 2.10, 15);
 
         System.out.println("--- Početno stanje ---");
